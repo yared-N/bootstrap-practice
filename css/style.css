@@ -1,0 +1,10 @@
+ .jumbotron {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+/* .container ul {
+    display: inline-;
+    justify-content: space-between;
+}   */
